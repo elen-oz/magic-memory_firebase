@@ -70,7 +70,7 @@ function App() {
   }, []);
 
   return (
-    <div className='App'>
+    <div className='app'>
       <h1>Magic Match</h1>
       <button onClick={shuffleCards}>New Game</button>
 
